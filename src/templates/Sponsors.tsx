@@ -4,43 +4,40 @@ import { Section } from '@/layout/Section';
 
 const Sponsors = () => (
   <Section
-    title="Sponsors"
-    description="Our sponsors' exceptional support has made this project possible."
+    title="Resources"
+    description="Resources used in the Data Hackathon Project"
   >
-    <table className="mx-auto border-collapse">
+    <table className="h-512 w-512 m-4 mx-auto box-border border-collapse p-4">
       <tbody>
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
+              href="https://aws.amazon.com/free/?trk=c4f45c53-585c-4b31-8fbf-d39fbcdc603a&sc_channel=ps&ef_id=CjwKCAjwgpCzBhBhEiwAOSQWQZhQ7X0YjJrYEaW3Gn_Ca0mBq4vy1WIHRBnAQOVkNL7IxtldR8AD_BoCRHoQAvD_BwE:G:s&s_kwcid=AL!4422!3!637354294239!e!!g!!aws!19043613274!143453611386&gclid=CjwKCAjwgpCzBhBhEiwAOSQWQZhQ7X0YjJrYEaW3Gn_Ca0mBq4vy1WIHRBnAQOVkNL7IxtldR8AD_BoCRHoQAvD_BwE&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"
               target="_blank"
             >
               <Image
-                src="/assets/images/sentry-dark.png"
-                alt="Sentry"
+                src="/assets/images/Amazon_Web_Services_Logo.png"
+                alt="Amazon Web Service"
                 width={260}
                 height={224}
               />
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://betterstack.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
-              target="_blank"
-            >
+            <a href="about:blank" target="_blank">
               <Image
-                src="/assets/images/better-stack-dark.png"
-                alt="Better Stack"
+                src="/assets/images/AWS-service-icon_sagemaker.png"
+                alt="Amazon SageMaker"
                 width={260}
                 height={224}
               />
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a href="https://nextlessjs.com">
+            <a href="about:blank">
               <Image
-                src="/assets/images/nextlessjs.png"
-                alt="React SaaS Boilerplate Next.js"
+                src="/assets/images/image27_frqkzv.png"
+                alt="Streamlit"
                 width={260}
                 height={224}
               />
@@ -49,36 +46,30 @@ const Sponsors = () => (
         </tr>
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate"
-              target="_blank"
-            >
+            <a href="about:blank" target="_blank">
               <Image
-                src="/assets/images/clerk.png"
-                alt="Clerk – Authentication & User Management for Next.js"
+                src="/assets/images/OpenAI_Logo.png"
+                alt="OpenAI"
                 width={260}
                 height={224}
               />
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://turso.tech/?utm_source=nextjsstarterbp"
-              target="_blank"
-            >
+            <a href="about:blank" target="_blank">
               <Image
-                src="/assets/images/turso.png"
-                alt="SQLite Developer Experience"
+                src="/assets/images/Python-logo-notext.png"
+                alt="Python"
                 width={260}
                 height={224}
               />
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a href="https://l.crowdin.com/next-js" target="_blank">
+            <a href="about:blank" target="_blank">
               <Image
-                src="https://support.crowdin.com/assets/logos/core-logo/svg/crowdin-core-logo-cDark.svg"
-                alt="Crowdin"
+                src="/assets/images/colab_favicon_256px.png"
+                alt="Colabn"
                 width={260}
                 height={224}
               />
