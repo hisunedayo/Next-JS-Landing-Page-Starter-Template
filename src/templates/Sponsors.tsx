@@ -59,7 +59,7 @@ const Sponsors = () => (
             <a href="about:blank" target="_blank">
               <Image
                 src="/assets/images/Python-logo-notext.png"
-                alt="Python"
+                alt="Python3"
                 width={260}
                 height={224}
               />
