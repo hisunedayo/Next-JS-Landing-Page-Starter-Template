@@ -34,7 +34,7 @@ const Hero = () => (
         }
         description="Built with Love, LLMs, and Caffeine"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://hackathonmorchor.streamlit.app/">
             <div className="justify-items-center">
               <Button xl>Try the Demo</Button>
             </div>
