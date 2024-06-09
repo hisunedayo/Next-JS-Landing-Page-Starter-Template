@@ -12,10 +12,9 @@ const Banner = () => (
           <div className=" size-1/4">
             <img
               className=""
+              alt=""
               src="/assets/images/306009448_579962263915592_3573971014139223959_n.jpg"
-            >
-              alt
-            </img>
+            ></img>
           </div>
         }
       />
